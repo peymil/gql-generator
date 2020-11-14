@@ -1,6 +1,7 @@
 # gql-generator
 
 Generate queries from graphql schema, used for writing api test.
+Generated .js files are dependent to gql-tag package.
 
 ## Example
 ```gql
